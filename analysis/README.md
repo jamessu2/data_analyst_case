@@ -36,3 +36,7 @@ I find it interesting that the exercise asks to consider the UK as a possible in
 
 I will assume this is not a typo, and that the Head of Performance Marketing is asking about perhaps newly penetrating into the UK.
 
+
+### Comment #5
+I'm a bit unclear as to the level of detail required for the presentation challenge. I'd certainly love to show the different ways I look at data in detail, but I'm always aware that when presenting to upper management, sometimes the data presented shouldn't be TOO overwhelming.
+
