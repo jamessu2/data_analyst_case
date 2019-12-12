@@ -14,7 +14,7 @@ ERROR: Database Error
  FATAL:  role "data_analyst_case" does not exist
 ```
 
-After some playing around, I just created the tables in Postgres directly, and submit the SQL code directly.
+After attempting to play around for a good while, I decided to just created the tables in my Postgres database directly (through pgAdmin), and submit the SQL code as its own file.
 
 
 ### Comment #2
@@ -28,7 +28,7 @@ I will be assuming that I can include the negative values in the totals / averag
 
 
 ### Comment #3
-For personal convenience, I will be evaluating the currencies as USD. I am aware that the metrics are perhaps scaled versions of Euros, but in the context of the exercise, the overall analysis shouldn't be affected. 
+For personal convenience, I will be evaluating / presenting the currencies as USD. I am aware that the metrics are likely scaled versions of Euros, but in the context of the exercise, the overall analysis shouldn't be affected. 
 
 
 ### Comment #4
