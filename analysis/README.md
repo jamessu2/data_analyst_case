@@ -30,13 +30,19 @@ I will be assuming that I can include the negative values in the totals / averag
 ### Comment #3
 For personal convenience, I will be evaluating / presenting the currencies as USD. I am aware that the metrics are likely scaled versions of Euros, but in the context of the exercise, the overall analysis shouldn't be affected. 
 
+- UPDATE: Accounting is actually done in USD. 
+
 
 ### Comment #4
 I find it interesting that the exercise asks to consider the UK as a possible investment, given that the UK country code isn't mentioned anywhere in the data spreadsheets. 
 
 I will assume this is not a typo, and that the Head of Performance Marketing is asking about perhaps newly penetrating into the UK.
 
+- UPDATE: United Kingdom is actually country code GB (Great Britain)
+
 
 ### Comment #5
 I'm a bit unclear as to the level of detail required for the presentation challenge. I'd certainly love to show the different ways I look at data in detail, but I'm always aware that when presenting to upper management, sometimes the data presented shouldn't be TOO overwhelming.
+
+- UPDATE: High-level summary for presentation is enough. More cuts of data are shown in the additional BREAKDOWN tabs in Excel spreadsheet.
 
